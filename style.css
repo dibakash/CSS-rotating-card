@@ -4,6 +4,7 @@ body {
   display: grid;
   place-items: center;
   background: linear-gradient(blanchedalmond, pink);
+  text-align:center;
 }
 
 .container {
