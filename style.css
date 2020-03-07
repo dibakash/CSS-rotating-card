@@ -9,15 +9,15 @@ body {
 
 .container {
   /* background-color: blue; */
-  width: 60vw;
-  height: 60vw;
+  width: 50vw;
+  height: 50vh;
   display: grid;
   place-items: center;
 }
 .card {
   background-color: rgba(255, 235, 205, 0.699);
-  width: 60vw;
-  height: 60vw;
+  width: 50vw;
+  height: 50vh;
   display: grid;
   place-items: center;
   transform-style: preserve-3d;
