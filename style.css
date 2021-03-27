@@ -8,7 +8,6 @@ body {
 }
 
 .container {
-  /* background-color: blue; */
   width: 50vw;
   height: 50vh;
   display: grid;
